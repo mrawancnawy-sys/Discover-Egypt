@@ -1,0 +1,16 @@
+<nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container">
+        <a class="navbar-brand" href="index.php">Discover Egypt</a>
+        <button class="navbar-toggler" type="button" data-bstoggle="collapse" data-bs-target="#navbarNavAltMarkup" ariacontrols="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle
+navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav ms-auto">
+                <a class="nav-link active" href="index.php">Home</a>
+                <a class="nav-link" href="destinations.php">destinations</a>
+                <a class="nav-link" href="about.php">About</a>
+            </div>
+        </div>
+    </div>
+</nav>
